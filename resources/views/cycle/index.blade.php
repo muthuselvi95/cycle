@@ -15,7 +15,7 @@ Cycle Lists
         <th>Name</th>
         <th>Color</th>
         <th>Company</th>
-        <th>Actionsadsd</th>
+        <th>Actions</th>
       </tr>
     </thead>
     <tbody>
